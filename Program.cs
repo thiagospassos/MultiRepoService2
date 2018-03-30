@@ -6,7 +6,7 @@ namespace MultiRepoService2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("This is currently on Service 2");
         }
     }
 }
